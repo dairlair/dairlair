@@ -4,7 +4,7 @@ My nickname is Dairlair and I currently focus on helping webcam models stop unau
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=dairlair&show_icons=true)
 
 <!--
 **dairlair/dairlair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
