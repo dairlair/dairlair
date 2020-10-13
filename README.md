@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My nickname is Dairlair and I currently focus on helping webcam models stop unauthorized distribution of their videos.
+
 <!--
 **dairlair/dairlair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
