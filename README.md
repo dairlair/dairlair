@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My nickname is Dairlair and I currently focus on helping webcam models stop unauthorized distribution of their videos.
+My nickname is Dairlair and I currently focus on Digital Signal Processing.
 
 
 
